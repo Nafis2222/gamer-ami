@@ -1,0 +1,302 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+ul{ 
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+.one{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 15px;
+}
+
+
+ul  li{
+    margin-left: 15px;
+    color: #3C354F;
+text-align: center;
+font-family: Work Sans;
+font-size: 18px;;
+font-weight: 500;
+
+}
+.soma{
+    display: flex;
+}
+.num{
+    
+font-family: Work Sans;
+font-size: 45px;
+padding-bottom: 15px;
+font-weight: 700;
+
+
+}
+.tui{
+    color: rgb(247, 118, 95);
+}
+.naf{
+    width: 86.041px;
+height: 40px;
+padding-top:;
+}
+.or{
+    color: #3C354F;
+    text-align: center;
+   border: 0px;
+   font-family: Work Sans;
+font-size: 18px;
+font-weight: 500;
+width: 102px;
+height: 56px;
+background-color: white;
+}
+.btn{
+    color: #3C354F;
+text-align: center;
+font-family: Work Sans;
+font-size: 18px;
+font-weight: 500;
+width: 262px;
+height: 56px;
+border: 0px;
+border-radius: 8px;
+background: rgba(11, 2, 35, 0.10);
+align-items: center;
+padding-top: 0px;
+}
+.martin{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.tin{
+    color: #0B0223;
+text-align: center;
+font-family: Work Sans;
+font-size: 48px;
+font-weight: 600;
+}
+.tom{
+    text-align: center;
+font-family: Work Sans;
+font-size: 95px;
+font-weight: 800;
+text-transform: uppercase;
+background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.lat{
+    color: #534C64;
+text-align: start;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 500;
+}
+.pri{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 600;
+text-transform: uppercase;
+background-color: #F948B2;
+padding: 21px 40px;
+border: 0px;
+border-radius: 40px;
+}
+.mary{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 600;
+text-transform: uppercase;
+background-color: #4EC5F7;
+margin-left: 10px;
+padding: 21px 40px;
+border: 0px;
+border-radius: 40px;
+}
+.pat{
+    color: #534C64;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 500;
+}
+.max{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.well{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 240px;
+    gap: 20px;
+}
+.kosto{
+    width: 342px;
+    height: 400px;
+    
+}
+
+
+
+
+.done{
+    color: #534C64;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px; /* 150% */
+}
+don
+.fin{
+    color: #0B0223;
+text-align: right;
+font-family: Work Sans;
+font-size: 48px;
+font-weight: 600;
+}
+.kat{
+    color: #534C64;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.easy{
+    height: 90%;
+    margin-left: 130px;
+}
+.dot{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: end;
+    margin-top: 25px;
+    width: 100%;
+}
+.tough{
+    width: 318.5px;
+height: 365.083px;
+flex-shrink: 0;
+text-align: left;
+position: relative;
+bottom: 280px;
+
+}
+.sufia{
+    color: #0B0223;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 600;
+background-color: white;
+border: 0px;
+margin-left: 40px;
+}
+.kamal{
+    margin: -170px 5px 55px;
+    text-align: center;
+}
+.jamal{
+    text-align: center;
+    padding-bottom: 60px;
+}
+.sufia:hover{
+    border: 2px solid tomato;
+    padding: 15px;
+    border-radius: 45px;
+}
+.ban{
+    width: 86.041px;
+height: 40px;
+flex-shrink: 0;
+}
+.items{
+    height: 100%;
+    width: 100%;
+    background-color:  #0B0223;
+    padding: 20px 5px;
+}
+.gla{
+    color: white;
+    text-align: center;
+}
+.kora{
+    color: #FFF;
+text-align: center;
+font-family: Work Sans;
+font-size: 18px;
+font-weight: 600;
+border: 0px;
+background-color: #0B0223 ;
+padding-left: 25px;
+}
+.kodu{
+    text-align: center;
+    padding: 20px 5px;
+}
+.perfect{
+    text-align: center;
+    padding: 20px 5px;
+}
+.lou{
+    padding-left: 20px;
+}
+.lame{
+    border: 0px;
+    background-color: #0B0223;
+    color: rgba(255, 255, 255, 0.60);
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 500;
+}
+.dump{
+    text-align: center;
+    padding: 20px 5px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 576px){
+    nav{
+        flex-direction: column;
+    }
+    .well, .martin{
+        flex-direction: column;
+        padding: 0px;
+    }
+    .dot{
+        flex-direction: column;
+        
+    }
+}
+
+
+
+@media screen and (min-width:576px) and (max-width: 1160px){
+    nav{
+        flex-direction: column;
+    }
+    .well, .martin {
+        flex-direction: column;
+        padding: 0px;
+        align-items: center;
+    }
+    .dot{
+        flex-direction: column;
+        
+    }
+}
