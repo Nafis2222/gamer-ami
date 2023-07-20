@@ -156,7 +156,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 30px; /* 150% */
 }
-don
+
 .fin{
     color: #0B0223;
 text-align: right;
@@ -179,11 +179,15 @@ font-weight: 600;
 .dot{
     display: flex;
     justify-content: space-around;
-    align-items: center;
+   align-items: center;
     text-align: end;
     margin-top: 25px;
-    width: 100%;
+    
 }
+.kom{
+    margin-bottom: 300px;
+}
+
 .tough{
     width: 318.5px;
 height: 365.083px;
@@ -191,7 +195,7 @@ flex-shrink: 0;
 text-align: left;
 position: relative;
 bottom: 280px;
-
+width: 100%;
 }
 .sufia{
     color: #0B0223;
@@ -277,11 +281,16 @@ font-weight: 500;
     .well, .martin{
         flex-direction: column;
         padding: 0px;
+        align-items: center;
     }
     .dot{
         flex-direction: column;
         
     }
+    .kom{
+        margin-bottom: 0px;
+    }
+    
 }
 
 
